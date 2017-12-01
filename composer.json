@@ -4,6 +4,7 @@
     "license": "MIT",
     "keywords": ["hxsd", "Laravel", "ElasticSearch"],
     "homepage": "https://github.com/hxsdedu/elastic",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "xiewh",
@@ -25,7 +26,7 @@
     "autoload-dev": {},
     "extra": {
         "branch-alias": {
-            "dev-master": "0.0.1-dev"
+            "dev-master": "0.0.2-dev"
         }
     }
 }
