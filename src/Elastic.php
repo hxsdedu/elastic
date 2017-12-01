@@ -15,4 +15,9 @@ class Elastic
     {
         return '测试成功';
     }
+
+    public function test1()
+    {
+        return '测试成功2';
+    }
 }
