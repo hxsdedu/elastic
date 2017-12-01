@@ -4,11 +4,13 @@
     "license": "MIT",
     "keywords": ["hxsd", "Laravel", "ElasticSearch"],
     "homepage": "https://github.com/hxsdedu/elastic",
-    "authors": {
-        "name": "xiewh",
-        "email": "xiewh@xiewh.com",
-        "homepage": "www.xiewh.com"
-    },
+    "authors": [
+        {
+            "name": "xiewh",
+            "email": "xiewh@xiewh.com",
+            "homepage": "www.xiewh.com"
+        }
+    ],
     "require": {
         "php": ">=7.0.0",
         "illuminate/config": "5.5.*",
